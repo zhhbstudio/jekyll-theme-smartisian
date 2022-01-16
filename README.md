@@ -12,7 +12,7 @@ permalink: /readme/
 
 ## 演示地址
 
-[github page ](http://zhhbstudio.github.io/jeekyll-theme-smartisian)，仅有列表页，文章页。
+[github page ](http://zhhbstudio.github.io/jekyll-theme-smartisian)，仅有列表页，文章页。
 
 ## 博客内使用
 
